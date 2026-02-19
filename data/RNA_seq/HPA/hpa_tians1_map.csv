@@ -1,0 +1,21 @@
+﻿HPA region,Tian region
+hippocampus,HIP-rh
+dentate gyrus,HIP-rh
+"hippocampus, CA1",HIP-rh
+"hippocampus, CA2",HIP-rh
+"hippocampus, CA3",HIP-rh
+subiculum,HIP-rh
+lateral amygdala,AMY-rh
+basal amygdala,AMY-rh
+central amygdala,AMY-rh
+corticomedial amygdala,AMY-rh
+pulvinar,pTHA-rh
+ventral posterolateral thalamic nucleus,pTHA-rh
+ventral posteromedial thalamic nucleus,pTHA-rh
+ventral thalamic nuclei,aTHA-rh
+medial dorsal thalamic nucleus,aTHA-rh
+nucleus accumbens,NAc-rh
+"globus pallidus, externus",GP-rh
+"globus pallidus, internus",GP-rh
+putamen,PUT-rh
+caudate nucleus,CAU-rh
