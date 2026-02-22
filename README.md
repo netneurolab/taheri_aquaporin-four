@@ -2,11 +2,8 @@
 
 This repository contains code and data in support of "Spatial organization of AQP4 channels in the human brain: links with perfusion, edema, and disease vulnerability", available as a preprint on **[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.18.706679v1)**.
 
-## overview
-We map AQP4 gene expression across the human brain and relate this spatial organization to:
-- vascular physiology (normative perfusion, vein density)
-- neurodegenerative vulnerability (atrophy maps across diseases)
-- peritumoral edema
+## abstract
+Aquaporin-4 (AQP4) water channels support the glymphatic system, a brain-wide pathway that clears cerebral waste products. Despite its importance, the whole-brain organization of this system in humans remains underexplored. Here we use AQP4 gene expression as a molecular anchor to reconstruct a whole-brain glymphatic-related topography and link it to vascular physiology, edema, and neurodegenerative vulnerability. We find that AQP4 expression is highly organized across the brain, peaking in subcortical, ventral, and periventricular territories, consistent with a clearance axis near cerebrospinal fluid reservoirs and perivascular interfaces. Linking AQP4 expression to vascular organization, we find that AQP4-enriched regions show lower normative blood perfusion and lower vein density, suggesting that this axis is not simply explained by vascular supply or large-vessel anatomy. Turning to neurodegeneration, we find that atrophy patterns across multiple neurodegenerative diseases co-localize with AQP4 expression---most strongly for tau and TDP-43 proteinopathies---and high-atrophy regions lie close to AQP4 hotspots in both anatomical space and structural connectome space. Furthermore, incorporating normative PET markers of neuroinflammation typically strengthens the spatial alignment between AQP4 expression and disease atrophy, suggesting that inflammatory tone and glymphatic-related architecture jointly shape vulnerability. Finally, we show that peritumoral edema is most frequent in AQP4-enriched regions and is further shaped by regional inflammatory tone. Collectively, this work highlights a whole-brain glymphatic organization that relates to diverse aspects of brain physiology and vulnerability.
 
 ## repository structure
 
