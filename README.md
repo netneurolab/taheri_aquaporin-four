@@ -1,6 +1,6 @@
 # Spatial organization of AQP4 channels in the human brain: links with perfusion, edema, and disease vulnerability
 
-This repository contains code and data in support of "Spatial organization of AQP4 channels in the human brain: links with perfusion, edema, and disease vulnerability", available as a preprint on bioRxiv [ADD LINK AFTER POSTING].
+This repository contains code and data in support of "Spatial organization of AQP4 channels in the human brain: links with perfusion, edema, and disease vulnerability", available as a preprint on **[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.18.706679v1)**.
 
 ## overview
 We map AQP4 gene expression across the human brain and relate this spatial organization to:
